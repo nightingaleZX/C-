@@ -2,6 +2,8 @@
 C 学习笔记
 
 # [C Primer Plus（第6版）中文版](https://github.com/nightingaleZX/C--/tree/main/C%20Primer%20Plus%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88)
+史蒂芬·普拉达/姜佑译 2019年11月出版 人民邮电出版社
+
 ## [1 预备知识](https://github.com/nightingaleZX/C--/blob/main/C%20Primer%20Plus%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88/1%20%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
 1. [初识C 语言](https://github.com/nightingaleZX/C--/blob/main/C%20Primer%20Plus%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88/1%20%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#c-%E8%AF%AD%E8%A8%80%E7%9A%84%E8%B5%B7%E6%BA%90)
 2. [C 语言概述](https://github.com/nightingaleZX/C--/blob/main/C%20Primer%20Plus%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88/1%20%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#%E9%80%89%E6%8B%A9c-%E8%AF%AD%E8%A8%80%E7%9A%84%E7%90%86%E7%94%B1)
