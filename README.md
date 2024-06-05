@@ -1,6 +1,3 @@
-# C-
-C 学习笔记
-
 # [C Primer Plus（第6版）中文版](https://github.com/nightingaleZX/C--/tree/main/C%20Primer%20Plus%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88)
 史蒂芬·普拉达/姜佑译 2019年11月出版 人民邮电出版社
 
